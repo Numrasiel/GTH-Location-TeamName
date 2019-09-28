@@ -1,5 +1,5 @@
-# GTH-Location-TeamName
-Project submission for the `Global Travel Hackathon in [Location], by [team-name] team`.
+# GTH-London-TeamName
+Project submission for the `Global Travel Hackathon in London, by [team-name] team`.
 
 **Write one sentence explaining what does your project.**
 
@@ -9,7 +9,9 @@ Project submission for the `Global Travel Hackathon in [Location], by [team-name
 
 Write a short abstract of the project. Don't forget to include:
 
-* Hackathon topic you used (Sustainability, Accessibility or Community);
+https://docs.google.com/presentation/d/1cin9fiEyPBbo46qLOVWZn1RlC_hDHJtmjvBF8oSf3v0/edit?ts=5d8f7512
+
+* 
 * The development tools used to build the project;
 * SDKs used in the project;
 * APIs used in the project;
