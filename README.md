@@ -1,4 +1,4 @@
-# GTH-London-TeamName
+# Carbon Social responsability - LMT
 Project submission for the `Global Travel Hackathon in London, by [team-name] team`.
 
 **Write one sentence explaining what does your project.**
